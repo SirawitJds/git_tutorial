@@ -4,3 +4,5 @@
 <?php echo "CCCCCCCCCCC" ?>
 <?php echo "DDDDDDDDDDD" ?>
 <?php echo "EEEEEEEEEEE" ?>
+<?php echo "NEWLINE" ?>
+<?php echo "NEWLINEZZZZZZZZ" ?>
